@@ -1,1 +1,1 @@
-# proj1
+# ariadna-gh.github.io
